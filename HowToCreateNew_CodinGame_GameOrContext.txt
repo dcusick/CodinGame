@@ -1,0 +1,21 @@
+NEW-Automatic Way! :)
+1.  When you want to create a new game to code with, execute the Powershell command:
+		c:\dev\CodinGame\CreateNewGame.ps1 "{Game/ContestName}"
+2.  If you have existing classes you want to add, create/save the file, and add it in the csproj file, as <Compile Include="{ClassName}.cs" />
+3.  Update the UsingStatements.cs file, to add in any new Using statements, if applicable.
+4.  When you want to combine all classes into a single file, execute the Powershell command:
+		c:\dev\CodinGame\CombineToOne.ps1 "{Game/ContestName}" "{NameOfMainProgram}.cs"
+
+
+		
+		
+OLD-MANUAL WAY!!!!!!
+1.  Create Directory for Game/Contest in C:\dev\CodinGame
+2.  Unzip BackupProject.zip to that directory.
+3.  Rename the folder from Code4Life, to the name of the Game/Contest.
+4.  Rename the Code4Life.csproj and Code4Life.sln files, to the name of the Game/Contest.
+5.  Update the string Code4Life in Properties/AssemblyInfo.cs, to the name of the Game/Contest.
+6.  If you have existing classes you want to add, create/save the file, and add it in the csproj file, as <Compile Include="{ClassName}.cs" />
+7.  Update the UsingStatements.cs file, to add in any new Using statements, if applicable.
+8.  When you want to combine all classes into a single file, execute the Powershell command:
+		c:\dev\CodinGame\CombineToOne.ps1 "{Game/ContestName}" "{NameOfMainProgram}.cs"

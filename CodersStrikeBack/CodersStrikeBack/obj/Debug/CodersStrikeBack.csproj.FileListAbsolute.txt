@@ -1,0 +1,6 @@
+c:\dev\CodinGame\CodersStrikeBack\CodersStrikeBack\bin\Debug\CodersStrikeBack.exe.config
+c:\dev\CodinGame\CodersStrikeBack\CodersStrikeBack\bin\Debug\CodersStrikeBack.exe
+c:\dev\CodinGame\CodersStrikeBack\CodersStrikeBack\bin\Debug\CodersStrikeBack.pdb
+c:\dev\CodinGame\CodersStrikeBack\CodersStrikeBack\obj\Debug\CodersStrikeBack.csprojResolveAssemblyReference.cache
+c:\dev\CodinGame\CodersStrikeBack\CodersStrikeBack\obj\Debug\CodersStrikeBack.exe
+c:\dev\CodinGame\CodersStrikeBack\CodersStrikeBack\obj\Debug\CodersStrikeBack.pdb

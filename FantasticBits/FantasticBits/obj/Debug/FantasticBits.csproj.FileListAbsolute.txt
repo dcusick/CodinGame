@@ -1,0 +1,6 @@
+c:\dev\CodinGame\FantasticBits\FantasticBits\obj\Debug\FantasticBits.csprojResolveAssemblyReference.cache
+c:\dev\CodinGame\FantasticBits\FantasticBits\bin\Debug\FantasticBits.exe.config
+c:\dev\CodinGame\FantasticBits\FantasticBits\bin\Debug\FantasticBits.exe
+c:\dev\CodinGame\FantasticBits\FantasticBits\bin\Debug\FantasticBits.pdb
+c:\dev\CodinGame\FantasticBits\FantasticBits\obj\Debug\FantasticBits.exe
+c:\dev\CodinGame\FantasticBits\FantasticBits\obj\Debug\FantasticBits.pdb

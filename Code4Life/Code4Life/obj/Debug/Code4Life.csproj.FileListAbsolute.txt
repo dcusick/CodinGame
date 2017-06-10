@@ -1,0 +1,6 @@
+C:\dev\CodinGame\Code4Life\Code4Life\bin\Debug\Code4Life.exe.config
+c:\dev\CodinGame\Code4Life\Code4Life\obj\Debug\Code4Life.csprojResolveAssemblyReference.cache
+c:\dev\CodinGame\Code4Life\Code4Life\bin\Debug\Code4Life.exe
+c:\dev\CodinGame\Code4Life\Code4Life\bin\Debug\Code4Life.pdb
+c:\dev\CodinGame\Code4Life\Code4Life\obj\Debug\Code4Life.exe
+c:\dev\CodinGame\Code4Life\Code4Life\obj\Debug\Code4Life.pdb
